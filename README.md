@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Polsiv
-- 👀 I’m interested in Web development
+- 👋 Hi, I’m @Silv
+- 👀 I’m interested in Web development and hacking maybe
 - 🌱 I’m currently learning Html, Css and Javascript
-- 💞️ I’m looking to collaborate on web projects and graphic design
+- 💞 I’m looking to collaborate on web projects and graphic design
 - 📫 How to reach me: Discord: Polsiv#0534
 
 <!---
