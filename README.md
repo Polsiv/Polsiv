@@ -1,4 +1,4 @@
-<h4 style="color: #000">Polsiv</h4>
+<h3 style="color: #000">Polsiv</h3>
 
 
 **`Software developer and aspiring mathematician`** 
@@ -36,7 +36,6 @@ Hello there! My name is Polsiv. I hope you are enjoying your visit to my profile
 
 
 
-          
           
           
           
