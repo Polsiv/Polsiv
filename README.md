@@ -36,10 +36,12 @@ Hello there! My name is Polsiv. I hope you are enjoying your visit to my profile
           
 <img align="left" alt="Rust" width="40px" style="padding: 0p 10px 0 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
+<br>
+
 #
 
-<h3 style="color: #A0B5EA">My future projects</h3>
+<h3 style="color: #A0B5EA">My future projects:heavy_check_mark:</h3> 
+
+
 
          
-          
-          
