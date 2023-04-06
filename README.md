@@ -1,4 +1,4 @@
-### Polsiv
+<h4 style="color: #000">Polsiv</h4>
 
 
 **`Software developer and aspiring mathematician`** 
@@ -23,14 +23,20 @@ Hello there! My name is Polsiv. I hope you are enjoying your visit to my profile
 
 <img align="left" alt="Illustrator" width="40px" style="padding: 0p 10px 0 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
           
-          
+<br>
+
 <h3 style="color: #A0B5EA">Languages I want to learn</h3>         
           
           
-<img align="left" alt="Rust" width="40px" style="padding: 0p 10px 0 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
+<img align="left" alt="Rust" width="40px" style="padding: 0p 10px 0 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"/>
+          
+<img align="left" alt="Rust" width="40px" style="padding: 0p 10px 0 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
          
 
 
 
+          
+          
           
           
