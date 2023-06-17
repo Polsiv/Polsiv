@@ -1,7 +1,7 @@
 <h3 style="background-color:#000">Polsiv</h3>
 
 
-**`Software developer and aspiring mathematician`\* 
+**`Software developer and aspiring mathematician`** 
 <br>
 Hi there!, my interests revolve around coding, mathematics, and computers.
 Trying to learn new problems everyday!
