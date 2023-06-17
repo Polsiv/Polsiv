@@ -40,14 +40,12 @@ Trying to learn new problems everyday!
 
 #
 
-<h3 style="color: #A0B5EA">My future projects:heavy_check_mark:</h3> 
+<h3 style="color: #A0B5EA">My future projects</h3> 
 
 <ul>
 <li>Make videos of how I code my projects.</li>
 <li>Create my own app, that stores all the information I need and sorted the way I want.</li>	
-<li>Create a website that displays all the projects I have created.</li>
 <li>Create any math related software or script.</li>
-<li>Create OC..</li>
 </ul>
 
          
