@@ -4,7 +4,6 @@
 **`Software developer and aspiring mathematician`** 
 <br>
 Hi there!, my interests revolve around coding, mathematics, and computers.
-Trying to learn new problems everyday!
 #
 
 <h3 style="color: #A0B5EA">Languages and tools</h3>
