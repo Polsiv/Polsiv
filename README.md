@@ -35,19 +35,7 @@ Hi there!, my interests revolve around coding, mathematics, and computers.
           
 <img align="left" alt="Rust" width="40px" style="padding: 0p 10px 0 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-<br>
-
-#
-
-<h3 style="color: #A0B5EA">My future projects</h3> 
-
-<ul>
-<li>Make videos of how I code my projects.</li>
-<li>Create my own app, that stores all the information I need and sorted the way I want.</li>	
-<li>Create any math related software or script.</li>
-</ul>
-
-         
+   
 
 
 
