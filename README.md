@@ -6,7 +6,7 @@
 Hi there!, my interests revolve around coding, mathematics, and computers.
 #
 
-<h3 style="color: #A0B5EA">Languages and tools</h3>
+<h3 style="color: #A0B5EA">Languages and tools i've worked with</h3>
 
 <img align="left" alt="C++" width="40px" style="padding: 0p 10px 0 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 
