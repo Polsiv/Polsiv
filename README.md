@@ -5,6 +5,7 @@
 <br>
 Hi there!, my interests revolve around coding, mathematics, and computers.
 #
+<br>
 
 <h3 style="color: #A0B5EA">Languages and tools i've worked with</h3>
 
